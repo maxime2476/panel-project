@@ -1,5 +1,12 @@
 # EDP — Déterminants du PIB en Europe (2015–2023)
 
+![Statut](https://img.shields.io/badge/statut-terminé-brightgreen?style=flat-square)
+![Outil](https://img.shields.io/badge/outil-Stata-1A5276?style=flat-square)
+![Source](https://img.shields.io/badge/source-Eurostat-003399?style=flat-square)
+![Période](https://img.shields.io/badge/période-2015--2023-E67E22?style=flat-square)
+![Méthode](https://img.shields.io/badge/méthode-données_de_panel-2980B9?style=flat-square)
+![EDP](https://img.shields.io/badge/EDP-2025-8E44AD?style=flat-square)
+
 Projet économétrique de données de panel (Académique)
 
 ## Objectif
